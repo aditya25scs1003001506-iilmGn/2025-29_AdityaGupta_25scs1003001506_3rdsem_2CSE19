@@ -122,6 +122,8 @@ Model Saving using Pickle
 Model Loading
         ↓
 Sentiment Prediction
+
+```
 🛠️ Technologies and Tools Used
 Technology / Tool	Purpose
 Python	Programming language
